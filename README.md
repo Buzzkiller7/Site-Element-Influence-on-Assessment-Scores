@@ -19,7 +19,7 @@
 
 ## 🏔️ 实验流程
 
-![流程图](D:\Desktop\github-repository\Site Element Influence on Assessment Scores\Site-Element-Influence-on-Assessment-Scores\Images\流程图.png)
+![流程图](Images\流程图.png)
 
 ## 📁 项目结构
 
@@ -32,7 +32,7 @@
 1. **📥 克隆本项目**
    
    ```
-   git clone https://github.com/your_username/your_project_name.git
+   git clone https://github.com/Buzzkiller7/Site-Element-Influence-on-Assessment-Scores.git
    ```
 2. **📦 安装依赖项**
    
@@ -40,6 +40,7 @@
    pip install -r requirements.txt
    ```
 3. **🚀 运行数据收集脚本**
+   
    ```
    python data_collection/collect_data.py
    ```
